@@ -1,0 +1,21 @@
+Code,Name,Brand,Quantity,Price,isPrescription,Info
+D012E,Lisinopril,Zestril,40,50.4,TRUE,ACE inhibitor for high blood pressure
+E345F,Metformin,Glucophage,60,42,TRUE,Diabetes medication to control blood sugar
+F678G,Omeprazole,Prilosec,25,25.2, ,Proton pump inhibitor for heartburn
+H234I,Levothyroxine,Euthyrox,90,47.6,TRUE,Thyroid hormone replacement
+I567J,Cetirizine,Zyrtec,0,5.6, ,Antihistamine for allergy relief
+J890K,Hydrochlorothiazide,Microzide,80,33.6,TRUE,Diuretic for high blood pressure
+K123L,Fluconazole, ,38,56,TRUE,Antifungal medication for infections
+L456M,Hydrocortisone, ,0,33.6, ,Topical steroid for inflammation and itching
+M789N,Diphenhydramine, ,0,14, ,Antihistamine for allergy relief and sleep aid
+N012O,Acetaminophen, ,0,8.4, ,Pain reliever and fever reducer
+P123Q,Prednisone, ,0,56,TRUE,Anti-inflammatory steroid for autoimmune conditions
+Q234R,Amoxicillin,Amoxil,100,22.5,TRUE,Antibiotic for bacterial infections
+R567S,Ibuprofen,Advil,100,8.0, ,Nonsteroidal anti-inflammatory for pain and fever
+S678T,Albuterol,ProAir,50,30.5,TRUE,Bronchodilator for asthma and breathing issues
+T789U,Atorvastatin,Lipitor,120,75.2,TRUE,Statin for lowering cholesterol
+U890V,Simvastatin,Zocor,80,60.3,TRUE,Cholesterol-lowering medication
+V901W,Paracetamol,Panadol,50,6.0, ,Pain reliever and fever reducer
+W234X,Fluticasone,Flonase,40,14.0, ,Nasal spray for allergy relief
+X345Y,Losartan,Cozaar,65,45.2,TRUE,Angiotensin II receptor blocker for high blood pressure
+Y456Z,Clonazepam,Klonopin,20,72.5,TRUE,Anti-anxiety medication for panic disorders

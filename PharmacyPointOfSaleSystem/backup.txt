@@ -1,0 +1,13 @@
+Code,Name,Brand,Quantity,Price,isPrescription,Info
+D012E,Lisinopril,Zestril,40,50.4,TRUE,ACE inhibitor for high blood pressure
+E345F,Metformin,Glucophage,60,42,TRUE,Diabetes medication to control blood sugar
+F678G,Omeprazole,Prilosec,52,25.2, ,Proton pump inhibitor for heartburn
+G901H,Diazepam,Valium,20,67.2,TRUE,Anxiolytic for anxiety and seizures
+H234I,Levothyroxine,Euthyrox,90,47.6,TRUE,Thyroid hormone replacement
+I567J,Cetirizine,Zyrtec,0,5.6, ,Antihistamine for allergy relief
+J890K,Hydrochlorothiazide,Microzide,80,33.6,TRUE,Diuretic for high blood pressure
+K123L,Fluconazole, ,38,56,TRUE,Antifungal medication for infections
+L456M,Hydrocortisone, ,0,33.6, ,Topical steroid for inflammation and itching
+M789N,Diphenhydramine, ,0,14, ,Antihistamine for allergy relief and sleep aid
+N012O,Acetaminophen, ,0,8.4, ,Pain reliever and fever reducer
+P123Q,Prednisone, ,0,56,TRUE,Anti-inflammatory steroid for autoimmune conditions
