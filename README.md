@@ -1,0 +1,1 @@
+This is a practice project to learn and experiment with C# language, specifically for building a console application with file handling. While this project isn’t actively maintained anymore, feel free to check it out or use it as-is.
